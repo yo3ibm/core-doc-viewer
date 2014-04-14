@@ -1,16 +1,16 @@
 {
-  "name": "marked-js",
+  "name": "marked-element",
   "private": true,
   "dependencies": {
     "marked": "*",
     "polymer": "Polymer/polymer#master"
   },
   "homepage": "https://github.com/PolymerLabs/marked-element",
-  "_release": "c508453a21",
+  "_release": "3e4487d9d2",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "c508453a21ad4e633be346cce56913dbc1d161c6"
+    "commit": "3e4487d9d2b68cd202e6806b54db162b34fcae01"
   },
   "_source": "git://github.com/PolymerLabs/marked-element.git",
   "_target": "master",
